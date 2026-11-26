@@ -1,0 +1,11 @@
+pet: mochi
+date: 2026-11-05
+title: へやんぽ、とける
+body: |
+  部屋に出すと、ひととおり走ってから、床でぺたんとのびます。
+  うさぎがこうなるのは、安心しているしるしだそうです。
+  そっとしておきました。
+photos:
+  - src: /images/post/mochi-room.jpg
+    alt: フローリングの床で、体をのばしてくつろぐうさぎ
+themes: [asobi, ouchi]

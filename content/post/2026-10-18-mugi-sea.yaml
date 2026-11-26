@@ -1,0 +1,13 @@
+pet: mugi
+date: 2026-10-18
+title: はじめての海
+body: |
+  波の音にびっくりして、最初は近づけませんでした。
+  10分たったら、砂をほりはじめました。
+  帰りの車では、ずっとねていました。
+photos:
+  - src: /images/post/mugi-sea.jpg
+    alt: くもり空の砂浜に立つ柴犬。うしろに海が見える
+  - src: /images/post/mugi-sea2.jpg
+    alt: ぬれた砂の上に残った、犬のあしあと
+themes: [odekake, sanpo]

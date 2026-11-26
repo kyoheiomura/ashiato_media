@@ -1,0 +1,11 @@
+pet: hana
+date: 2026-11-01
+title: 毛布の季節
+body: |
+  寒くなると、自分で毛布にもぐります。
+  出ているのは鼻だけ。
+  いびきが聞こえてくると、こっちまでねむくなります。
+photos:
+  - src: /images/post/hana-blanket.jpg
+    alt: からし色の毛布にくるまって、顔だけ出してねているダックスフンド
+themes: [negao]

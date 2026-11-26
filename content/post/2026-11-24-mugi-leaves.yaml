@@ -1,0 +1,11 @@
+pet: mugi
+date: 2026-11-24
+title: 落ち葉をふむ音がすき
+body: |
+  いちょうの道に入ると、わざと葉っぱの多いところを歩きます。
+  カサカサ鳴るのがたのしいみたい。
+  ふり返って「まだ帰らないよね？」のかお。
+photos:
+  - src: /images/post/mugi-leaves.jpg
+    alt: いちょうの落ち葉の道で、こちらをふり返る柴犬
+themes: [sanpo]

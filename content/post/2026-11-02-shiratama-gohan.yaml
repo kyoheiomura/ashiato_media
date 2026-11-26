@@ -1,0 +1,11 @@
+pet: shiratama
+date: 2026-11-02
+title: まて、の3秒
+body: |
+  ごはんの前の「まて」。
+  3秒をこえると、目でうったえてきます。
+  よし、のひと声が出る前に、もうおしりが浮いています。
+photos:
+  - src: /images/post/shiratama-gohan.jpg
+    alt: ごはんの器の前で、じっとすわって待つ白いトイプードル
+themes: [gohan]

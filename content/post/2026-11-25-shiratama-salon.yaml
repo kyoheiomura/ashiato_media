@@ -1,0 +1,11 @@
+pet: shiratama
+date: 2026-11-25
+title: さっぱりして、とくいげ
+body: |
+  トリミングから帰ってきたら、玄関でこのかお。
+  バンダナをつけてもらうと、しばらく外させてくれません。
+  今日は鏡の前を3回通りました。
+photos:
+  - src: /images/post/shiratama-salon.jpg
+    alt: 玄関で、水色のバンダナをつけてこちらを見上げる白いトイプードル
+themes: [trimming, ouchi]

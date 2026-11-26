@@ -1,0 +1,11 @@
+pet: kuromame
+date: 2026-11-08
+title: 入れると思った
+body: |
+  届いた荷物より、箱のほうに用があったようです。
+  どう見ても小さいのに、あきらめずにおさまりました。
+  箱はしばらく捨てられません。
+photos:
+  - src: /images/post/kuromame-box.jpg
+    alt: 小さな段ボール箱に、ぎゅっとおさまっている黒猫
+themes: [itazura, ouchi]

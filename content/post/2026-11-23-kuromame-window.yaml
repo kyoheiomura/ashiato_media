@@ -1,0 +1,11 @@
+pet: kuromame
+date: 2026-11-23
+title: 朝のパトロール
+body: |
+  毎朝7時、まどべで外の見まわり。
+  すずめが来ると、しっぽの先だけが動きます。
+  声をかけても、今はいそがしいそうです。
+photos:
+  - src: /images/post/kuromame-window.jpg
+    alt: レースのカーテンごしに外を見ている黒猫
+themes: [ouchi]

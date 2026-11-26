@@ -1,0 +1,11 @@
+pet: mochi
+date: 2026-11-18
+title: 小松菜の日
+body: |
+  ふくろを開ける音がしただけで、ケージの前で待っています。
+  食べているあいだは、なでても気づきません。
+  ほっぺがずっと動いています。
+photos:
+  - src: /images/post/mochi-greens.jpg
+    alt: 小松菜の葉を食べているうさぎ
+themes: [gohan]

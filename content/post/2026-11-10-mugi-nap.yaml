@@ -1,0 +1,11 @@
+pet: mugi
+date: 2026-11-10
+title: へそ天、いただきました
+body: |
+  ひなたのラグは、むぎの指定席。
+  気づいたらこの格好でねていました。
+  野生はどこへ。
+photos:
+  - src: /images/post/mugi-nap.jpg
+    alt: ひなたのラグの上で、おなかを出してねている柴犬
+themes: [negao, ouchi]

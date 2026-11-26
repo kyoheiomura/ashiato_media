@@ -1,0 +1,12 @@
+slug: shiratama
+name: しらたま
+kind: dog
+breed: トイプードル
+sex: female
+born: "2024-10"
+owner: たまのねえね
+area: 神奈川県
+intro: ごはんの音だけは、どの部屋にいても聞こえるようです。
+icon:
+  src: /images/post/shiratama-salon.jpg
+  alt: 水色のバンダナをつけた白いトイプードル

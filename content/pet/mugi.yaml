@@ -1,0 +1,12 @@
+slug: mugi
+name: むぎ
+kind: dog
+breed: 柴犬
+sex: male
+born: "2023-04"
+owner: むぎのかあさん
+area: 東京都
+intro: さんぽの帰り道は、かならず遠まわりしたがります。
+icon:
+  src: /images/post/mugi-leaves.jpg
+  alt: 落ち葉の道でふり返る柴犬

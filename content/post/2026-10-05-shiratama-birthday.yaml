@@ -1,0 +1,13 @@
+pet: shiratama
+date: 2026-10-05
+title: 2さいに なりました
+body: |
+  うちに来て、2回目の誕生日。
+  ケーキを前にしたときの集中力は、ふだんの3倍でした。
+  はしゃぎすぎて、夜は帽子のとなりでぐっすり。
+photos:
+  - src: /images/post/shiratama-birthday.jpg
+    alt: 小さなケーキのとなりにすわる白いトイプードル
+  - src: /images/post/shiratama-birthday2.jpg
+    alt: ソファで、パーティーの帽子のとなりでねている白いトイプードル
+themes: [kinenbi, gohan]

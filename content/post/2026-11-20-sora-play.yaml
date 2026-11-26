@@ -1,0 +1,11 @@
+pet: sora
+date: 2026-11-20
+title: とんだ
+body: |
+  ねこじゃらしを出すと、目の色が変わります。
+  写真はぜんぶブレていて、まともに撮れたのはこの1枚だけ。
+  5分あそんで、30分ねました。
+photos:
+  - src: /images/post/sora-play.jpg
+    alt: ねこじゃらしに向かって飛びあがる茶トラの猫
+themes: [asobi]

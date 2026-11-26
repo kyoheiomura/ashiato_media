@@ -1,0 +1,11 @@
+pet: sora
+date: 2026-10-28
+title: のぼったのは、だれ
+body: |
+  帰ってきたら、本棚の上からこのかお。
+  横には、たおれた鉢。
+  目が合ったのに、知らないふりをされました。
+photos:
+  - src: /images/post/sora-shelf.jpg
+    alt: 本棚の上からこちらを見下ろす茶トラの猫。横に鉢がたおれている
+themes: [itazura]

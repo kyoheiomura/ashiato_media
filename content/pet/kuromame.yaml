@@ -1,0 +1,12 @@
+slug: kuromame
+name: くろまめ
+kind: cat
+breed: 黒猫
+sex: male
+born: "2021-06"
+owner: まめ父
+area: 大阪府
+intro: 朝はまどべ、夜はひざの上。場所はきっちり決まっています。
+icon:
+  src: /images/post/kuromame-window.jpg
+  alt: まどべで外を見ている黒猫

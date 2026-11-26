@@ -1,0 +1,12 @@
+slug: sora
+name: そら
+kind: cat
+breed: 茶トラ
+sex: male
+born: "2025-08"
+owner: そらの同居人
+area: 愛知県
+intro: 高いところを見つけると、とりあえず登ります。
+icon:
+  src: /images/post/sora-shelf.jpg
+  alt: 本棚の上から見下ろす茶トラの猫

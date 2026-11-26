@@ -1,0 +1,12 @@
+slug: hana
+name: はな
+kind: dog
+breed: ミニチュアダックスフンド
+sex: female
+born: "2015-09"
+owner: はなとおさんぽ
+area: 福岡県
+intro: 11歳。歩く速さはゆっくりになったけれど、さんぽは毎日行きます。
+icon:
+  src: /images/post/hana-walk.jpg
+  alt: 夕方の道を歩くダックスフンド

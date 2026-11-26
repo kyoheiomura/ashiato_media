@@ -1,0 +1,12 @@
+slug: mochi
+name: もち
+kind: other
+breed: うさぎ（ネザーランドドワーフ）
+sex: female
+born: "2024-05"
+owner: もち係
+area: 北海道
+intro: 小松菜のふくろを開ける音で、走ってきます。
+icon:
+  src: /images/post/mochi-greens.jpg
+  alt: 小松菜を食べるうさぎ
